@@ -92,7 +92,7 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/anushkabajpai">
+<a href="[https://linkedin.com/in/anushkabajpai](https://www.linkedin.com/in/anushka-bajpai-aa4500255/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:anushkabajpai2346@gmail.com">
